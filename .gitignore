@@ -38,3 +38,6 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Auto-generated vector store
+vector_store/
